@@ -1,0 +1,6 @@
+1. Python
+2. Transformers (`hustvl/yolos-small`)
+3. PyTorch
+4. Pillow (PIL)
+5. Matplotlib
+6. Gradio
