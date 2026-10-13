@@ -1,0 +1,4 @@
+1. Python
+2. Transformers
+3. Gradio
+4. NLLB-200 Distilled Model
