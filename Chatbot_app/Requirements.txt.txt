@@ -1,0 +1,4 @@
+1. Python
+2. Transformers (`facebook/blenderbot-400M-distill`)
+3. PyTorch
+4. Gradio
