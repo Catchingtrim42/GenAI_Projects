@@ -1,7 +1,0 @@
-LangChain
-Groq
-HuggingFace
-ChromaDB
-SentenceTransformers
-PyPDF
-Gradio
